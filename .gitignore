@@ -9,7 +9,7 @@
 # Maven
 log/
 target/
-# Eclipse
+# Eclipse Files
 .project
 .classpath
 .settings
